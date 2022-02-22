@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anaghaachakrapani
-- 👀 I’m interested in Design and AI
+- 👀 I’m interested in Design & inclusive technology
 - 🌱 I’m currently learning UXD
-- 💞️ I’m looking to collaborate on AI technologies
+- 💞️ I’m looking to collaborate on design projects
 - 📫 How to reach me @anxghaa on IG
 
 <!---
